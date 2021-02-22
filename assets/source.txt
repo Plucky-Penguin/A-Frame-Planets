@@ -1,0 +1,21 @@
+space photo: https://ivrpa.org/panorama/360-vr-space-3003-stock-video/
+
+Sun Texture: https://www.solarsystemscope.com/textures/
+
+Mercury Texture: https://www.solarsystemscope.com/textures/
+
+Venus Texture: https://nasa3d.arc.nasa.gov/detail/ven0aaa2
+
+Earth Texture: https://web.cortland.edu/flteach/civ/davidweb/resources.htm
+    - Moon Texture: https://svs.gsfc.nasa.gov/4720
+
+Mars Texture: https://www.solarsystemscope.com/textures/
+
+Jupiter Texture: https://www.planetary.org/space-images/jupiter-texture-map-for
+
+Saturn Texture: https://www.solarsystemscope.com/textures/
+    - Saturn Rings: https://blenderartists.org/t/how-do-i-apply-a-ring-texture-for-saturns-rings/689046
+
+Uranus: https://www.deviantart.com/magentameteorite/art/Uranus-Texture-Map-2017-727689611
+
+Neptune: https://www.deviantart.com/neptuneproproduction/art/Neptune-Texture-Map-743250289
